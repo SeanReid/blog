@@ -222,7 +222,7 @@ table {
 .icon-ghost:before,
 .icon-feed:before,
 .icon-twitter:before,
-.icon-google-plus:before,
+.icon-github:before,
 .icon-facebook:before {
   font-family: 'icons';
   speak: none;
@@ -251,7 +251,7 @@ table {
   font-size: 1.1em; }
 
 /* line 147, /Users/SeanReid/tiya/blog/source/stylesheets/vendor/casper.css */
-.icon-google-plus:before {
+.icon-github:before {
   content: "\e003"; }
 
 /* line 150, /Users/SeanReid/tiya/blog/source/stylesheets/vendor/casper.css */
@@ -571,8 +571,9 @@ margin on the iframe, cause it breaks stuff. */
   margin-bottom: 5rem;
   text-align: center;
   color: #fff;
-  background: #303538 no-repeat center center;
-  background-size: cover; }
+  background: url("../images/background.jpg") no-repeat;
+  background-position: center;
+  }
 
 /* line 463, /Users/SeanReid/tiya/blog/source/stylesheets/vendor/casper.css */
 .blog-logo {

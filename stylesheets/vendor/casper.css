@@ -23,6 +23,7 @@
    ========================================================================== */
 
 
+
 article, aside, details,
 figcaption, figure,
 footer, header, hgroup,
@@ -118,7 +119,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-ghost:before,
 .icon-feed:before,
 .icon-twitter:before,
-.icon-google-plus:before,
+.icon-github:before,
 .icon-facebook:before {
     font-family: 'icons';
     speak: none;
@@ -144,7 +145,7 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "\e002";
     font-size: 1.1em;
 }
-.icon-google-plus:before {
+.icon-github:before {
     content: "\e003";
 }
 .icon-facebook:before {
