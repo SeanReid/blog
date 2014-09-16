@@ -1,58 +1,10 @@
-# middleman-casper
+First time blogging and first time using gh-pages. 
 
-The [Casper](https://github.com/TryGhost/Casper) theme
-([Ghost](https://github.com/TryGhost/Ghost)) for
-[Middleman-Blog](http://middlemanapp.com/basics/blogging/).
+Ended up abandoning this implementation of a blog and later changed to Tumblr.
 
-## Installation
 
-1. Clone **middleman-casper** into `~/.middleman`.
-   You will need to create this directory if it doesn't exist.
-   ```bash
-   $ git clone https://github.com/danielbayerlein/middleman-casper.git ~/.middleman/casper
-   ```
 
-2. Create a new project with the template:
-   ```bash
-   $ middleman init blog --template=casper
-   ```
 
-3. Change your `blog` and `author` settings in `config.rb`.
-
-## Usage
-
-Start a local web server running at `http://localhost:4567/` with:
-
-```bash
-$ middleman server
-```
-
-Create a static file with:
-
-```bash
-$ middleman build
-```
-
-For help, see the official [Middleman](http://middlemanapp.com) website.
-
-## TODO
-* Blog Cover
-* Page Template
-* i18n
-* Cleanup
-* 404
-
-## Special Thanks
-* [Ghost Foundation](https://github.com/TryGhost/Ghost) for
-  [Casper](https://github.com/TryGhost/Casper)
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new [Pull Request](../../pull/new/master)
 
 ## License
 
