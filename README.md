@@ -1,4 +1,4 @@
-First time blogging and first time using gh-pages. 
+First time blogging and using gh-pages. First try using Middleman and Ghost Theme 
 
 Ended up abandoning this implementation of a blog and later changed to Tumblr.
 
